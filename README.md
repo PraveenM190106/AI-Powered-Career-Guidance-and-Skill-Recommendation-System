@@ -1,4 +1,4 @@
-# CareerAI - AI-Powered Career Guidance and Skill Recommendation System
+# AI-Powered Career Guidance and Skill Recommendation System
 
 ## Overview
 
